@@ -54,7 +54,7 @@ A bounded context is a specialised model representing domain concepts and their 
 
 ![Bounded context](resources/context-subdomain.jpg)
 
-A sensible default is to aim for a 1:1 mapping between subdomain.
+A sensible default is to aim for a 1:1 mapping between subdomains and bounded contexts.
 
 ### Ubiquitous Language
 
