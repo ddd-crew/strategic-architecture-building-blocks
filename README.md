@@ -1,4 +1,4 @@
-# [Experimental] Strategic Architecture Building Blocks
+# [Experimental] Strategic DDD Architecture Building Blocks
 
 This repository catalogues a language for describing architectural concepts from a Strategic Domain-Driven Design perspective.
 
