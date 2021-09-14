@@ -1,6 +1,5 @@
-# [Experimental] Strategic DDD Architecture Building Blocks
+# [Obsolete] Strategic DDD Architecture Building Blocks
 
-This repository catalogues a language for describing architectural concepts from a Strategic Domain-Driven Design perspective.
+This was an attempt to create a shared language used to describe the building blocks of architecture. After a long discussion, no consensus could be reached and so it was established that this is not a good idea for a repository.
 
-The goal of this repository is to create a shared language that practitioners can apply consistently across projects and domains. Less ambiguity should equally benefit newcomers to DDD and experienced practitioners.
 
